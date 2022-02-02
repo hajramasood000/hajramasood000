@@ -22,3 +22,17 @@
 <br />
 --
 <br />
+### 🌎Connect with me:
+
+
+[<img align="left" alt="Hajra Masood| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Waliiya Rizwan | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />][medium]
+[<img align="left" alt="Waliiya Rizwan | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
+
+
+<br />
+
+
+[linkedin]: https://www.linkedin.com/in/hajra-masood-6aa700230/
+[medium]: https://medium.com/@waliyarizwan000
+[gmail]: waliyarizwan000@gmail.com
