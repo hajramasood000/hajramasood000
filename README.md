@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/hajramasood000/hajramasood000/master/wave.gif" width="30px">
+### Hi there I am Hajra Masood<img src="https://raw.githubusercontent.com/hajramasood000/hajramasood000/master/wave.gif" width="30px">
 
 
 ## I'm a Pakistani, Computer Systems Engineer and a student !!
